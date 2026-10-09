@@ -5,7 +5,7 @@
 
 My work follows the same path each time: understand the problem, clean the data, explore it visually, build and compare models, and report the result honestly against a baseline.
 
-- GitHub: [github.com/Tibyan868](https://github.com/Tibyan868)
+
 
 ---
 
